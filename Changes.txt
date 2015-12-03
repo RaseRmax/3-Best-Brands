@@ -1,0 +1,19 @@
+Bigger:
+Home MSI Alienware and Razer buttons<<<<----done
+
+Keep work to around 3 colors
+Grey, white, red <----------DONE
+
+White letters udner Introductions. <---DONE
+
+delete javascript prompboxes<----DONE
+
+keep navigation menu same for all pages <--- Done
+
+Use modules tha are like prompbox
+
+highlight for navagation bars, "active"<--- DONE
+
+Expand the width in 3 pages about brands <----Done
+
+Align facebook icons to the right and remove dots.

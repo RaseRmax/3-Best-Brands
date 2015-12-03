@@ -9,6 +9,12 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+ul
+{
+list-style-type: none;
+margin-right:10px;
+
+}
 body {
   margin: 0;
 }
@@ -1083,7 +1089,7 @@ html {
 }
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 24px;
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
@@ -1335,7 +1341,8 @@ mark,
   text-transform: capitalize;
 }
 .text-muted {
-  color:saddlebrown;
+  color:White;
+   font-weight: bold;
 }
 .text-primary {
   color: #337ab7;
@@ -3487,7 +3494,7 @@ fieldset[disabled] .btn-link:focus {
 .btn-lg,
 .btn-group-lg > .btn {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 1.3333333;
   border-radius: 6px;
 }
@@ -3886,7 +3893,7 @@ tbody.collapse.in {
 .input-group-lg > .input-group-btn > .btn {
   height: 46px;
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 1.3333333;
   border-radius: 6px;
 }
@@ -4547,6 +4554,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-brand {
   color: #777;
+  font-size:24px;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -4824,7 +4832,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination-lg > li > a,
 .pagination-lg > li > span {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 1.3333333;
 }
 .pagination-lg > li:first-child > a,
@@ -6792,10 +6800,12 @@ button.close {
   .visible-print-inline-block {
     display: inline-block !important;
   }
+  
 }
 @media print {
   .hidden-print {
     display: none !important;
   }
+  
 }
 /*# sourceMappingURL=bootstrap.css.map */

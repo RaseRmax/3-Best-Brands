@@ -4,7 +4,7 @@
 
 body {
   padding-bottom: 40px;
-  color:goldenrod;
+  color:grey;
   background:#080808;
 }
 
@@ -72,7 +72,7 @@ body {
 }
 .marketing h2 {
   font-weight: normal;
-  color:#e60000;
+  color:White;
 }
 .marketing .col-lg-4 p {
   margin-right: 10px;

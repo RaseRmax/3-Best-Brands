@@ -48,7 +48,17 @@ float:;
 background:Silver;
 margin:0 auto;
 	}
-	.facebook
+	.ribbon {
+   position: relative;
+   top: -16px;
+   right: -706px;
+   float:right;
+}
+	.positionabs
 	{
-		position:right;
+		position:absolute;
+		right:5px;
+	}
+	h1{
+		size:72;
 	}
